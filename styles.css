@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#Clock{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 7.5rem;
+    color: hsl(194, 46%, 15%);
+    font-weight: bolder;
+    text-align: center;
+    backdrop-filter: 50px;
+    width: 100%;
+    background-color: hsl(33, 100%, 88%, 0.7);
+
+
+}
